@@ -13,13 +13,13 @@ MonoBehaviour:
   m_Name: PhotonServerSettings
   m_EditorClassIdentifier: 
   AppSettings:
-    AppIdRealtime: 
+    AppIdRealtime: 547a9029-180c-485e-a3b0-c0c74f58c285
     AppIdFusion: 
     AppIdChat: 
-    AppIdVoice: 
+    AppIdVoice: d071251d-9118-4799-87a1-6f00e26dbbce
     AppVersion: 
     UseNameServer: 1
-    FixedRegion: 
+    FixedRegion: us
     Server: 
     Port: 0
     ProxyServer: 
@@ -43,6 +43,8 @@ MonoBehaviour:
   - Fire
   - RespawnSpaceship
   - RPCRefreshPlayerValues
+  - KickPlayer
+  - PlaySound
   DisableAutoOpenWizard: 1
   ShowSettings: 0
   DevRegionSetOnce: 0
